@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone/!svn/ver/1327/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone_V3.4/01_%E5%BC%80%E5%8F%91%E5%8C%BA/02_%E4%BB%A3%E7%A0%81/01_trunk/TrafficMap/TrafficMap/Common/ZipArchive/minizip
+END
+ioapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone/!svn/ver/1327/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone_V3.4/01_%E5%BC%80%E5%8F%91%E5%8C%BA/02_%E4%BB%A3%E7%A0%81/01_trunk/TrafficMap/TrafficMap/Common/ZipArchive/minizip/ioapi.c
+END
+zip.c
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone/!svn/ver/1327/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone_V3.4/01_%E5%BC%80%E5%8F%91%E5%8C%BA/02_%E4%BB%A3%E7%A0%81/01_trunk/TrafficMap/TrafficMap/Common/ZipArchive/minizip/zip.c
+END
+unzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone/!svn/ver/1327/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone_V3.4/01_%E5%BC%80%E5%8F%91%E5%8C%BA/02_%E4%BB%A3%E7%A0%81/01_trunk/TrafficMap/TrafficMap/Common/ZipArchive/minizip/unzip.c
+END
+crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone/!svn/ver/1327/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone_V3.4/01_%E5%BC%80%E5%8F%91%E5%8C%BA/02_%E4%BB%A3%E7%A0%81/01_trunk/TrafficMap/TrafficMap/Common/ZipArchive/minizip/crypt.h
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone/!svn/ver/1327/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone_V3.4/01_%E5%BC%80%E5%8F%91%E5%8C%BA/02_%E4%BB%A3%E7%A0%81/01_trunk/TrafficMap/TrafficMap/Common/ZipArchive/minizip/ioapi.h
+END
+mztools.c
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone/!svn/ver/1327/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone_V3.4/01_%E5%BC%80%E5%8F%91%E5%8C%BA/02_%E4%BB%A3%E7%A0%81/01_trunk/TrafficMap/TrafficMap/Common/ZipArchive/minizip/mztools.c
+END
+zip.h
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone/!svn/ver/1327/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone_V3.4/01_%E5%BC%80%E5%8F%91%E5%8C%BA/02_%E4%BB%A3%E7%A0%81/01_trunk/TrafficMap/TrafficMap/Common/ZipArchive/minizip/zip.h
+END
+unzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone/!svn/ver/1327/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone_V3.4/01_%E5%BC%80%E5%8F%91%E5%8C%BA/02_%E4%BB%A3%E7%A0%81/01_trunk/TrafficMap/TrafficMap/Common/ZipArchive/minizip/unzip.h
+END
+mztools.h
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone/!svn/ver/1327/ZC_%E8%B7%AF%E5%86%B5%E9%80%9A_iPhone_V3.4/01_%E5%BC%80%E5%8F%91%E5%8C%BA/02_%E4%BB%A3%E7%A0%81/01_trunk/TrafficMap/TrafficMap/Common/ZipArchive/minizip/mztools.h
+END
